@@ -1,6 +1,7 @@
 // function definition
 function sayHello(message) {
-  return message;
+  let m = "bhajan ";
+  return message + m;
 }
 // calling function
 console.log(sayHello("Hello World!"));
